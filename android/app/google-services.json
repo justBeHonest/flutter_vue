@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "3974329201",
+    "firebase_url": "https://flutter-vue-default-rtdb.firebaseio.com",
     "project_id": "flutter-vue",
     "storage_bucket": "flutter-vue.appspot.com"
   },
