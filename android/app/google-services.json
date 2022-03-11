@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3974329201",
+    "project_id": "flutter-vue",
+    "storage_bucket": "flutter-vue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3974329201:android:3a4e56813a294cad0b3cd0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3974329201-v227hvgicm1fgamvnp2rg5du2a2k5uek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2dastOBMJ5Ncv5cX8auXuo71S76VGFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3974329201-v227hvgicm1fgamvnp2rg5du2a2k5uek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
